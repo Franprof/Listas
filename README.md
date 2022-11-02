@@ -1,7 +1,13 @@
 <!DOCTYPE HTML>
+<!DOCTYPE.html>
+<html>
+<html lang="pt-br">
+
+ <head>
+      <meta charset="UTF-8">
 #LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS - não ordenada
 
-<h1><color:read>SALADA DE FRUTAS</color:read></h1> 
+<h1>SALADA DE FRUTAS</h1> 
 
 <p><stong>Ingredientes</stong></p>
 
