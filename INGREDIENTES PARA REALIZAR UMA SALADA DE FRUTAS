@@ -1,9 +1,9 @@
-<!DOCTYPEHTML>
-<h1><font color=blue><center>SALADA DE FRUTAS</font></h1></center>
+#LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS
 <head>
-<p><em><strong><font color=purple><h2><center>Ingredientes</center></h2></font></strong></em></p>
-</head>
+<h1><center>SALADA DE FRUTAS</center></h1>
+<head>
 <bady>
+<p><em><strong><font color=purple><h2><center>Ingredientes</center></h2></font></strong></em></p>
 <p><center><li> 12 banana</center></li></p> <img src=" https://st.depositphotos.com/1642482/2523/i/950/depositphotos_25238775-stock-photo-bunch-of-bananas.jpg " width=150 height="150">
 <p><center><li> 12 maçãs </center></li></p> <img src="  " width=150 height="150">
 <p><center><li> 3 mamões </center></li></p> <img src="  " width=150 height="150">
