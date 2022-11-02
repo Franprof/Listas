@@ -1,9 +1,17 @@
 <!DOCTYPEHTML>
 Listas de ingredientes para fazer uma salada de frutas 
 <meta charset="utf-8">
-<h1><font color=blue><center>Queijadinha Umami</font></h1></center>
-
+<h1><font color=blue><center>SALADA DE FRUTAS</font></h1></center>
+<head>
 <p><em><strong><font color=purple><h2><center>Ingredientes</center></h2></font></strong></em></p>
-
-<p><center><li>3 ovos</center></li></p>
+</head>
+<bady>
+<ul>
+<li><p><center><li> 12 banana</center></li></p>
+<p><center><li> 12 maçãs </center></li></p>
+<p><center><li> 3 mamões </center></li></p>
+<p><center><li> 2 melões </center></li></p>
+<p><center><li> 4 mangas</center></li></p>
+<p><center><li> 1 abaxaxi </center></li></p>
+<p><center><li> 20 laranjas </center></li></p>
 	<center><img src="https://thumbs.dreamstime.com/b/tr%C3%AAs-ovos-de-brown-16869672.jpg" width=150 height="150"></p></li></center>
