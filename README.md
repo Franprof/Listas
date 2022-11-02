@@ -5,7 +5,7 @@
       <meta charset="UTF-8">
 #LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS - não ordenada
 
-<h1>SALADA DE FRUTAS</h1> 
+  <h1>color:pink>SALADA DE FRUTAS</color:pink></h1> 
 
 <p><stong>Ingredientes</stong></p>
 
