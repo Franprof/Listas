@@ -2,7 +2,7 @@
 
 <h1>SALADA DE FRUTAS</h1> 
 
-<p><em><stong>Ingredientes</stong></em></p>
+<h2><em><stong>Ingredientes</stong></em></h2>
 
 <p>12 bananas </p> 
 <p> 12 maçãs </p>
@@ -11,3 +11,9 @@
 <p>  5 mangas </p>
 <p>  2 abacaxi </p>
 <p> 20 laranjas </p>
+
+<h3>  Modo de fazer </h3>
+<p> Espreme as laranjas.
+<p> Em uma tigela pica todas as demais frutas </p>
+<p> Despeja o suco das laranjas e mexe</p>
+<p> Serve as porções</p> 
