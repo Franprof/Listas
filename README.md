@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 #LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS
 
-<h1>SALADA DE FRUTAS</h1> 
+<h1><color:read>SALADA DE FRUTAS</color:read></h1> 
 
 <p><stong>Ingredientes</stong></p>
 
